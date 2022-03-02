@@ -5,7 +5,7 @@
  * @author Roberto Salazar Marquez
  * @version 1.0
  */
-public class Cilindro extends Circulo
+public final class Cilindro extends Circulo
 {
     // Variables de Instancia 
     private int altura;
