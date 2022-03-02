@@ -25,6 +25,9 @@ public class Circulo extends Punto
     public String toString() {
         return "Centro " + super.toString() + ", Radio = " + radio; 
     }
+    
+
+    
 }
 
 
